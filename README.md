@@ -1,3 +1,4 @@
+# Xulaixiang-License-Plate-Classic
 The relevant code involved in this project is located in the master branch of the GitHub open source project. In addition, the dataset and pre-weighting files required for the project are available at the following links:
 
 Dataset: car_data.zip
@@ -12,6 +13,3 @@ Pre-weighting file:
  Pre-weighted file download link: checkpoints.zip
 Link: [https://pan.baidu.com/s/1VvyZIGSqEKyo1fr0WsLTPQ](https://pan.baidu.com/s/1VvyZIGSqEKyo1fr0WsLTPQ)  
 Extraction code: 6666  
-
-
-Translated with DeepL.com (free version)
